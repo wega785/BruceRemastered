@@ -1,3 +1,4 @@
+#include "core/wega_power.h"
 #include "core/main_menu.h"
 #include <globals.h>
 
